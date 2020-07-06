@@ -1,6 +1,7 @@
 # Discord Revamp (BETA)
-## Report Bugs in the support discord down below.
 A revamped discord based on discord's current website.
+
+## Report Bugs in the support discord down below.
 
 # Downloads
 - [BetterDiscord](https://betterdiscord.net/ghdl?id=3316)
