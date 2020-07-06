@@ -1,4 +1,5 @@
 # Discord Revamp (BETA)
+## Report Bugs in the support discord down below.
 A revamped discord based on discord's current website.
 
 # Downloads
