@@ -8,8 +8,8 @@ A revamped discord based on discord's current website.
 - [Powercord](https://github.com/hellbound1337/discord-revamp/blob/master/Discord%20Revamp.zip?raw=true)
 
 # Previews
-<img src="https://i.imgur.com/mVq1Gvv.png"/>
-<img src="https://i.imgur.com/Ov9jNUF.png"/>
+<img src="https://i.imgur.com/9OccKsz.png"/>
+<img src="https://i.imgur.com/ZLKVQY6.png"/>
 
 # Support 
 - [Support Server](https://discord.gg/pCc7q4Z)
