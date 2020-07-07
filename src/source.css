@@ -324,3 +324,7 @@ img[src="/assets/cdea41ede63f61153e4a3c0531fa3873.svg"] {
 .multiInput-1e2xJ7 {
     border-radius: 25px;
 }
+
+.theme-dark .multiInputLast-1aQ3YA:before {
+    border-right-color: transparent;
+}
