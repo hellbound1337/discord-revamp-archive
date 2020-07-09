@@ -328,3 +328,12 @@ img[src="/assets/cdea41ede63f61153e4a3c0531fa3873.svg"] {
 .theme-dark .multiInputLast-1aQ3YA:before {
     border-right-color: transparent;
 }
+
+.theme-dark .footer-3rDWdC, .theme-dark .footer-2gL1pp {
+    border-radius: 0px 0px 15px 15px !important;
+}
+
+.input-1mgnkM, .input-UJ9Tr3 {
+    border-radius: 0px !important;
+}
+
