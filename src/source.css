@@ -202,22 +202,6 @@
    border-radius: 20px 20px 0px 0px;
 }
 
-.theme-dark .powercord-plugin-soon .wumpus {
-    background-image: url(https://hellbound1337.github.io/discord-revamp/svg/PaintWumpus.svg);
-}
-
-.theme-dark .imageError-2OefUi, .theme-dark .invalidPoop-pnUbq7 {
-    background-image: url(https://hellbound1337.github.io/discord-revamp/svg/Poop.svg);
-}
-
-.theme-dark .emptyIconGuilds-3OViNh {
-    background-image: url(https://hellbound1337.github.io/discord-revamp/svg/NoMutualServers.svg);
-}
-
-.theme-dark .emptyIconFriends-BrjhY9 {
-    background-image: url(https://hellbound1337.github.io/discord-revamp/svg/NoMutualFriends.svg);
-}
-
 .topSectionSpotify-1lI0-P .headerFill-adLl4x .tabBarContainer-1s1u-z {
     background: #61876e;
 }
@@ -262,26 +246,6 @@
 
 .connection-1fbD7X {
     border-radius: 25px;
-}
-
-div[style*='flex: 0 1 auto; width: 415px; height: 200px; background-image: url("/assets/b669713872b43ca42333264abf9c858e.svg");'] {
-    background-image: url( "https://hellbound1337.github.io/discord-revamp/svg/NoPendingRequests.svg") !important;
-}
-
-div[style*='flex: 0 1 auto; width: 433px; height: 232px; background-image: url("/assets/8c998f8fb62016fcfb4901e424ff378b.svg");'] {
-    background-image: url("https://hellbound1337.github.io/discord-revamp/svg/PaintWumpus.svg") !important;
-}
-
-div[style*='flex: 0 1 auto; width: 376px; height: 162px; background-image: url("/assets/b5eb2f7d6b3f8cc9b60be4a5dcf28015.svg");'] {
-    background-image: url("https://hellbound1337.github.io/discord-revamp/svg/WumpusUpset.svg") !important;
-}
-
-div[style*='flex: 0 1 auto; width: 421px; height: 218px; background-image: url("/assets/a12ff54c4c5c03b41006fd96a4709c29.svg");'] {
-    background-image: url("https://hellbound1337.github.io/discord-revamp/svg/WumpusCrying.svg") !important;
-}
-
-img[src="/assets/cdea41ede63f61153e4a3c0531fa3873.svg"] {
-    content: url("https://hellbound1337.github.io/discord-revamp/svg/Vault.svg") !important;
 }
 
 .button-14-BFJ.enabled-2cQ-u7:hover {
