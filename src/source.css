@@ -304,3 +304,11 @@
 .theme-dark .modal-yWgWj- {
     border-radius: 15px;
 }
+
+.colorDefault-2K3EoJ.focused-3afm-j {
+    background-color: var(--background-modifier-hover);
+}
+
+.colorDefault-2K3EoJ:active:not(.hideInteraction-1iHO1O) {
+    background-color: var(--background-modifier-active);
+}
