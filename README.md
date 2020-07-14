@@ -14,5 +14,5 @@ A revamped discord based on discord's current website.
 
 # Support 
 - [Support Server](https://discord.gg/pCc7q4Z)
-- hellbound#0001 
+- hellbound#9999 
 
