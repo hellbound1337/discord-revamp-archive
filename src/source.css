@@ -304,3 +304,17 @@
 .colorDefault-2K3EoJ:active:not(.hideInteraction-1iHO1O) {
     background-color: var(--background-modifier-active);
 }
+
+.wrapper-3EGhDO {
+    background-color: var(--background-secondary);
+    border-radius: 25px;
+    padding: 0px;
+}
+
+.centerButton-3CaNcJ {
+    background: none !important;
+}
+
+.colorable-1bkp8v.white-3GPOIp, .colorable-1bkp8v.white-3GPOIp .centerIcon-2G6o-T {
+    color: var(--text-muted);
+}
