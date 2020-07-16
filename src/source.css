@@ -318,3 +318,11 @@
 .colorable-1bkp8v.white-3GPOIp, .colorable-1bkp8v.white-3GPOIp .centerIcon-2G6o-T {
     color: var(--text-muted);
 }
+
+.wrapper-2qzCYF {
+    background-color: var(--background-tertiary);
+}
+
+.gradientContainer-10lXLB {
+    background-image: none !important;
+}
