@@ -1,3 +1,6 @@
+## If you wanna support me, all i ask for is that you try out my recent project.
+- https://discord.bots.gg/bots/713054765025722440
+
 # Discord Revamp
 A revamped discord based on discord's current website.
 
