@@ -1,18 +1,5 @@
 @import url(https://hellbound1337.github.io/dark-discord/src/source.css);
 
-.theme-dark,
-.theme-light,
-:root {
-    --background-primary: #292841 !important;
-    --background-secondary: #242338 !important;
-    --background-secondary-alt: #3c3a5e !important;
-    --background-tertiary: #1c1b29 !important;
-    --background-accent: #413f66 !important;
-    --background-floating: #15141e !important;
-    --offline-color: #444444 !important;
-}
-
-
 /* user popout - credit to : https://github.com/A-User-s-Discord-Themes/Couve*/
 /*role pills*/
 .role-2irmRk{
