@@ -12,8 +12,6 @@
     --offline-color: #444444 !important;
 }
 
-/* user popout - credit to : https://github.com/A-User-s-Discord-Themes/Couve*/
-/*role pills*/
 .role-2irmRk{
     position: relative;
     overflow: hidden;
@@ -34,7 +32,8 @@
     z-index: -1;
     pointer-events: none;
 }
-/*Bottom*/
+
+
 .footer-1fjuF6{
     border-top: none;
 }
