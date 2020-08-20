@@ -142,7 +142,7 @@
 }
 
 .css-2yldzf-control {
-   border-radius: 20px 20px 0px 0px;
+   border-radius: 20px 20px 0 0;
 }
 
 .premiumSubscriptionAccountCredit-25i0tQ {
@@ -192,7 +192,7 @@
 
 .theme-dark .lookFilled-1h1y05.select-1Pkeg4:hover.selectOpen-hQuR6b,
 .theme-dark .lookFilled-1h1y05.selectOpen-hQuR6b {
-   border-radius: 20px 20px 0px 0px;
+   border-radius: 20px 20px 0 0;
 }
 
 .topSectionSpotify-1lI0-P .headerFill-adLl4x .tabBarContainer-1s1u-z {
@@ -250,7 +250,7 @@
 
 .searchFilter-2ESiM3:first-child {
    margin-left: -2px;
-   border-radius: 25px 0px 0px 25px;
+   border-radius: 25px 0 0 25px;
 }
 
 .circleIconButton-jET_ig {
@@ -279,12 +279,12 @@
 
 .theme-dark .footer-3rDWdC,
 .theme-dark .footer-2gL1pp {
-   border-radius: 0px 0px 15px 15px !important;
+   border-radius: 0 0 15px 15px !important;
 }
 
 .input-1mgnkM,
 .input-UJ9Tr3 {
-   border-radius: 0px !important;
+   border-radius: 0 !important;
 }
 
 .theme-dark .modal-yWgWj- {
@@ -302,7 +302,7 @@
 .wrapper-3EGhDO {
    background-color: var(--background-secondary);
    border-radius: 25px;
-   padding: 0px;
+   padding: 0;
 }
 
 .colorable-1bkp8v.white-3GPOIp,
