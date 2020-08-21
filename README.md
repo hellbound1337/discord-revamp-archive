@@ -1,4 +1,4 @@
-# Discord Revamp
+# Discord Revamp [![CodeFactor](https://www.codefactor.io/repository/github/hellbound1337/discord-revamp/badge)](https://www.codefactor.io/repository/github/hellbound1337/discord-revamp)
 A revamped discord based on discord's current website.
 
 # Downloads
