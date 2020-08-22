@@ -3,7 +3,7 @@
    "description": "A revamped discord based on discord's current website.",
    "version": "1.0.0",
    "author": "hellbound#9999",
-   "theme": "DiscordRevamp.scss",
+   "theme": "DiscordRevamp.theme.css",
    "splashTheme": "splash.css",
    "license": "Unlicensed"
 }
