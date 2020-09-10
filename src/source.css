@@ -358,6 +358,10 @@ div[class='flex-1xMQg5 flex-1O1GKY horizontal-1ae9ci horizontal-2EEEnY flex-1O1G
 }
 
 .barBase-1c2Rfb {
-    left: 50px !important;
-    right: 50px !important;
+   left: 50px !important;
+   right: 50px !important;
+}
+
+.input--jS-j2 {
+   border-radius: 25px;
 }
